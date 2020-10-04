@@ -1,0 +1,25 @@
+{
+  "name": "brewerytownphilly.org",
+  "version": "1.0.0",
+  "description": "page for brewerytownphilly.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mccannical/brewerytownphilly.org.git"
+  },
+  "author": "jesse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mccannical/brewerytownphilly.org/issues"
+  },
+  "homepage": "https://github.com/mccannical/brewerytownphilly.org#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "externalip": "^1.0.2",
+    "public-ip": "^4.0.2"
+  }
+}
